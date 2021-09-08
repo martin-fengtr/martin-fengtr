@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning new features of Laravel v8 and Vue3.
 - 💞️ I’m looking to collaborate on various Javascript libraries.
 - 📫 How to reach me:
-    email: martin.fengtr.gmail.com
-    linkedin: 
+    email: martin.fengtr.gmail.com  
+    linkedin: https://www.linkedin.com/in/martin-fengtr/
 
 <!---
 martin-fengtr/martin-fengtr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
